@@ -19,7 +19,7 @@ Well now you can.
 ## Demo
 
 <p align="center">
-  <img height="200" src="https://raw.githubusercontent.com/GoldenCorgi/Trash-Recognition/master/static/demo.png" alt="demo"/>
+  <img src="https://raw.githubusercontent.com/GoldenCorgi/Trash-Recognition/master/static/demo.png" alt="demo"/>
 </p>
 
 ## How to use
